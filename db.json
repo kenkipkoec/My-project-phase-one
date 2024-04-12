@@ -1,0 +1,195 @@
+{
+    "films": [
+      {
+        "id": "1",
+        "Anime_name": "Tokyo Ghoul",
+        "runtime": 24,
+        "seasons": 3,
+        "Episodes": 12,
+        "Time_released": "July 2014",
+        "Genres": "Action, Drama, Fantasy, Horror, Mystery, Psychological, Seinen, Supernatural, Suspense",
+        "description":"The chilling narrative of horror, suspense and dark fantasy is situated in Tokyo, a city haunted by unfathomable 'ghouls' that prey on human beings. The people's terror of these beings, whose true identities are shrouded in mystery, is palpable. In a local café he frequents, Kaneki, a run-of-the-mill student, unexpectedly crosses paths with Rize, an ardent bookworm like himself. Little does he know, his life will alter irrevocably in the course of a single night",
+        "poster": "assets/d6ddccf3f69fae0493e8cf51130c31b1.jpg"
+      },
+      {
+        "id": "2",
+        "Anime_name": "Naruto:shippuden",
+        "runtime": 24,
+        "Seasons": 2,
+        "Episodes": 250,
+        "Time_released": "Feb 15, 2007 to Mar 23, 2017",
+        "description": "Following his departure from Konohagakure, the Hidden Leaf Village, for rigorous training prompted by a desire to become stronger, Naruto Uzumaki has been gone for two and a half years. Meanwhile, Akatsuki, a group of elite ninja who defy fundamental norms, is nearing the realization of their grand scheme that could threaten the safety of the entire shinobi realm.Despite his growth in age and the impending sense of doom, Naruto has remained largely unchanged in his characterization – still spirited and juvenile, albeit much more self-assured with an unwavering resolve to safeguard his loved ones and his home. No matter the adversity he may face, Naruto will continue to persevere in his quest for what matters most to him, even when it comes at the cost of his individual well-being. His journey towards fulfilling his aspirations of becoming Hokage continues in this exciting continuation of his tale.",
+        "poster": "assets/ef7eece108cfbe794eb505dc983f7fe4.jpg"
+      },
+      {
+        "id": "3",
+        "Anime_name": "Boruto:The next generation",
+        "runtime": 24,
+        "Seasons": 24,
+        "Episodes": 12,
+        "Time_released": "Apr 05, 2017 to Mar 26, 2023",
+        "description": "After the Fourth Shinobi World War ended successfully, Konohagakure has experienced a serene period of progress, expansion, and impressive technological advancements, all thanks to the combined efforts of the Allied Shinobi Forces and Naruto Uzumaki, the village's Seventh Hokage. The city now resembles a contemporary metropolis, and the life of a shinobi has undergone significant changes as a result. Guided by the watchful eye of Naruto and his fellow veterans, a new generation of ninja has emerged to follow the traditional path.Boruto Uzumaki, the Seventh Hokage's offspring, often finds himself in the spotlight. He has inherited Naruto's boisterous and obstinate personality traits and is considered a prodigy with the support of his loved ones to achieve his full potential. Unfortunately, this has only fueled his arrogance and ambition to exceed his father, straining their relationship due to Naruto's hectic schedule. To make matters worse, an ominous threat looms within their village that could disrupt Boruto's peaceful existence.As a new journey unfolds, Boruto forges new alliances and reunites with familiar faces",
+        "poster": "assets/ede641090c1bcfaa10be65f73c805e9c.jpg"
+      },
+      {
+        "id": "4",
+        "Anime_name": "Hunter x hunter",
+        "runtime": 24,
+        "Seasons": 12,
+        "Episodes": 12,
+        "Time_released": "Oct 02, 2011 to Sep 24, 2014",
+        "description": "The manga of Togashi Yoshihiro, titled with the same name, has undergone a modernizing adaptation. It follows the exciting voyages of a Hunter who bravely travels through risky territories to pursue fugitives and unearth valuable relics. The story centers around Gon, the lead character, who embarks on a mission to search for his dad, a fellow Hunter. He leaves home to take part in the gruelling Hunter examination, notorious for its extreme danger and low passing rate. Gon meets his companions Kurapika, seeking revenge, Leorio, striving to become a doctor, and Killua, a former renegade assassin, amidst the trials and tribulations of the test. Despite the obstacles they face in their journeys, their camaraderie prevails.",
+        "poster": "assets/a027cea51dd4df76c70ebf8ea93a8d75.jpg"
+      },
+      {
+        "id": "5",
+        "Anime_name": "Dragon ball super",
+        "runtime": 24,
+        "Seasons": 6,
+        "Episodes": 24,
+        "Time_released": "Jul 05, 2015 to Mar 25, 2018",
+        "description": "Following an 18-year break, the mastermind behind Dragon Ball, Akira Toriyama, unveiled a new plotline. After vanquishing the formidable Majin Buu, Goku embarked on an unexpected career as a radish farmer. Although Earth was peaceful and the intrepid heroes had fallen into a routine, their tranquility remained susceptible to disturbance. Far away, the potent God of Destruction, Beerus, was made aware of an impending catastrophe by a mightier force. He began his search for the Saiyan God and voyaged to Earth. Could Goku and his allies triumph over their greatest foe?",
+        "poster": "assets/43012fe439631a2cecfcf248841e15f7.jpg"
+      },
+      {
+        "id": "6",
+        "Anime_name": "One punch man",
+        "runtime": 20,
+        "Seasons": 3,
+        "Episodes": 12,
+        "Time_released": "Oct 05, 2015 to Dec 21, 2015",
+        "description": "Although Saitama may not strike anyone as particularly remarkable, his heart beats with an uncontainable passion to serve as a hero. He pushed himself relentlessly for three years, sacrificing every last strand of hair along the way, in a determined pursuit of his childhood dream. Now, he boasts the unfathomable power to obliterate any adversary with a solitary punch, yet feels restless due to the monotony that such incredible abilities bring. Saitama yearns for a worthy challenger to test his limits.Alas, his wish is granted when a 19-year-old cyborg known as Genos recognizes Saitama's prowess and begs to learn from him. Genos encourages him to join the Hero Association, where they can earn acclaim for their life-saving actions. Inspired, Saitama agrees. Once enrolled, he faces new allies and opponents that reignite his passion for fighting and the exhilaration it brings. Despite his incredible strength, he realizes that the journey to become a certified hero is merely the beginning",
+        "poster": "assets/9bb53408d71064329567f708445a33ce.jpg"
+      },
+      {
+        "id": "7",
+        "Anime_name": "Mashle: Magic and Muscles",
+        "runtime": 24,
+        "Seasons": 2,
+        "Episodes": 12,
+        "Time_released": "Apr 08, 2023 to Jul 01, 2023",
+        "description": "Mash Burnedead is a young boy living in a world where magic is commonplace. Although he works tirelessly in a deep and dark forest, he struggles with a hidden inability to use magic. Despite his hopes for a peaceful life with his family, Mash becomes the target of mysterious attackers and is coerced into enrolling in Magic School. Determined to become a 'Divine Visionary' and join the ranks of the elite, Mash sets an ambitious goal for himself.However, with his muscular build and lack of magical skill, can Mash compete with the gifted students of the wizarding world? The stage is set for a unique and unconventional magical fantasy, where pure physical strength reigns supreme over any spell.",
+        "poster": "assets/82c101b11f9c31d56487724dd94e1067.jpg"
+      },
+      {
+        "id": "8",
+        "Anime_name": "Black clover",
+        "runtime": 24,
+        "Seasons": 1,
+        "Episodes": 170,
+        "Time_released": "Oct 03, 2017 to Mar 30, 2021",
+        "description": "Asta and Yuno were abandoned at a church on the same day and grew up together as children. They both shared the ambition of becoming the most powerful mage in the kingdom, commonly referred to as the 'Wizard King'. Unfortunately, Asta did not possess magical abilities, relying instead on his physical capabilities for improvement, whereas Yuno easily wielded magic.When Yuno turned 15, he was gifted a rare Grimoire with a four-leaf clover, symbolizing his extraordinary magical skills. Astoundingly, Asta was left with nothing. However, their tranquil lives were disrupted when Lebuty, a dangerous adversary, attacked Yuno with the intention of acquiring his Grimoire. Although Asta tried to defend him, he was no match for Lebuty.Despite being on the brink of defeat, Asta's resolve was reignited when he heard Yuno's voice, fueling him to push beyond his limits. Ultimately, he obtained an exceedingly powerful Grimoire with a five-leaf clover, known as the 'Black Clover', granting him the strength to vanquish Lebuty. Afterward, the two friends ventured forth into the world with the same vision: to attain the position of Wizard King.",
+        "poster": "assets/4c127405d9fa8f78a9d86052721cbefe.jpg"
+      },
+      {
+        "id": "9",
+        "Anime_name": "Fairy tale",
+        "runtime": 24,
+        "Seasons": 3,
+        "Episodes": 380,
+        "Time_released": "Oct 12, 2009 to Mar 30, 2013",
+        "description": "In the Fiore Kingdom, those who possess magical abilities are required to join guilds to fulfill their supernatural duties. The notorious and hazardous Fairy Tail guild is the most prominent of these.The unbreakable bond between the four members of Fairy Tail arises from an indescribable power, not their physical strength or magical prowess. As they carry out their missions, their connection only grows stronger. Antagonizing these comrades would be unwise, as they would have to endure Natsu's blazing punches, Gray's earth-shattering hammer, Lucy's wrathful celestial spirits, or Erza's razor-sharp sword. This otherworldly team unleashes the same amount of destruction on their adversaries as they do their surroundings, whether they are battling demons or brawling in the cafeteria",
+        "poster": "assets/565d854f9ecc32bd4e257738e99db970.jpg"
+      },
+      {
+        "id": "10",
+        "Anime_name": "Bleach",
+        "runtime": 24,
+        "Seasons": 3,
+        "Episodes": 120,
+        "Time_released": "Oct 05, 2004 to Mar 27, 2012",
+        "description": "Ichigo Kurosaki was a typical high school student. However, when a corrupt spirit known as a Hollow attacked his family and injured a Soul Reaper named Rukia Kuchiki who had come to their aid, Ichigo accepted Rukia's offer to transfer her powers to him in order to protect his loved ones. To his surprise, Rukia was unable to regain her powers, tasking Ichigo with the responsibility of hunting down Hollows that haunt their town. Fortunately, he was joined by his friends Orihime Inoue, Yasutora Sado, and Uryuu Ishida, each possessing their unique abilities. Together, they adapted to their new roles and supported each other both in and out of battle. As they continue to fight, Ichigo realizes that the Hollows are not the only threat to the human world",
+        "poster": "assets/e41a915c3f2b1114ec093e7fc3b1442a.jpg"
+      },
+      {
+        "id": "11",
+        "Anime_name": "Claymore",
+        "runtime": 24,
+        "Seasons": 1,
+        "Episodes": 26,
+        "Time_released": "Apr 04, 2007 to Sep 26, 2007",
+        "description": "Yoma, creatures with an unquenchable desire for human flesh, mercilessly ravage the land. The Claymore - exceptional beings born of a fusion between humans and Yoma - stand as their sole nemesis, wielding their strength and intelligence as they travel across the terrain in search of combat.Amidst this turmoil, we are introduced to Clare, a Claymore who is fueled by both her victories and defeats, and whose sorrow-filled past has left her scarred and withdrawn. Her quest for retribution is marked by brutality, solitude, and contempt. In a world where the hunters may become the hunted, the scars of an ancient war are borne by all",
+        "poster": "assets/d76d427b3fd0f418ced5d946b3e1574c.jpg"
+      },
+      {
+        "id": "12",
+        "Anime_name": "Solo leveling",
+        "runtime": 24,
+        "Seasons": 1,
+        "Episodes": 12,
+        "Time_released": "Jan 07, 2024 to Mar 31, 2024",
+        "description": "Ten years ago, an unknown passageway known as 'the Gate' appeared, bridging the gap between the real world and a realm of magic and monsters. Regular folks were granted with extraordinary powers and designated as 'Hunters' to fight these malevolent creatures. Sung Jin-Woo, a 20-year-old Hunter dubbed the 'World's Weakest' for his meager abilities, is among them. To pay for his mother's medical bills, he tirelessly hunts down monsters in Gates with lower levels.Jin-Woo's despondent life takes a dramatic turn after a catastrophic quest when he wakes up in a hospital believing he's the sole survivor. A cryptic dashboard presenting a 'Quest Log' obligates him to endure a grueling training regimen, or face severe consequences. Jin-Woo is initially skeptical of its feasibility, but as he grasps the potential to become one of the world's most powerful Hunters, he embraces the opportunity",
+        "poster": "assets/359624ee690b1744a5a978cd251f5401.jpg"
+      },
+      {
+        "id": "13",
+        "Anime_name": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+        "runtime": 24,
+        "Seasons": 1,
+        "Episodes": 24,
+        "Time_released": "Apr 07, 2023 to Jun 30, 2023",
+        "description": "Bullying at school and the lack of attention from his caretakers have troubled Yuuya's existence. But after he relocates to his grandfather's previous residence, he stumbles upon an alluring entryway. Curiosity getting the better of him, he enters and is transported to a stunningly enchanting universe. In this realm, he uncovers boundless riches and remarkable prowess that he brings back to Earth, intending to begin a new life.",
+        "poster": "assets/2c1726673f01a355c08a18c7a24985c4.jpg"
+      },
+      {
+        "id": "14",
+        "Anime_name": "The Eminence in the shadow",
+        "runtime": 24,
+        "Seasons": 2,
+        "Episodes": 18,
+        "Time_released": "Oct 05, 2022 to Feb 15, 2023",
+        "description": "Minoru Kagenou has been obsessed with becoming as strong as possible for as long as he can remember. He undergoes rigorous training not to gain recognition, but to blend into the crowd. By day, he pretends to be an unremarkable student. However, at night, he arms himself with a crowbar and mercilessly crushes local biker gangs. After a truck crash, Minoru believes his overwhelming powerlessness was something he couldn't overcome.In another world where magic reigns, Minoru is reborn as Cid, the second child of the noble Kagenou family. Finally, he has the power he has longed for. He dons the moniker 'Shadow' and establishes Shadow Garden to fight the mysterious Cult of Diablos, an organization he envisioned. As Shadow Garden grows in size and influence, it becomes increasingly evident that the Cult of Diablos isn't entirely fictional as Cid had envisioned",
+        "poster": "assets/b4b8f02a8ca80bac7f7806cde7703e12.jpg"
+      },
+      {
+        "id": "15",
+        "Anime_name": "Mushoku Tensei: Jobless Reincarnation",
+        "runtime": 24,
+        "Seasons": 3,
+        "Episodes": 12,
+        "Time_released": "Jan 11, 2021 to Mar 22, 2021",
+        "description": "After the unfortunate death of a man at the age of 34, who had not achieved his full potential, his tale takes a surprising twist. He is reborn as an infant in an alternate realm, and decides to make the most of this exhilarating new experience. Along with his newfound acquaintances, he embarks on an exciting adventure, driven by his magic abilities and bold aspirations. Utilizing the knowledge he has gained from his past life, he blazes a trail towards success. It should be noted that the anime's first and second episodes were aired on December 27th via Nico Nico Live Broadcasting and D Anime Store platforms",
+        "poster": "assets/25434cc8ef2d3ebe7a1bd4afa5013d05.jpg"
+      },
+      {
+        "id": "16",
+        "Anime_name": "That Time I Got Reincarnated as a Slime",
+        "runtime": 24,
+        "Seasons": 3,
+        "Episodes": 24,
+        "Time_released": "Oct 02, 2018 to Mar 19, 2019",
+        "description": "Satoru Mikami, a 37-year-old corporate worker living in Tokyo, is content with his mundane lifestyle, save for his inability to find a girlfriend. One day, while chatting with a colleague on the street, he is attacked by a random assailant and fatally wounded. As he lies dying, a strange voice speaks in his mind, issuing a series of incomprehensible commands.When Satoru awakens, he finds himself reincarnated as a shape-shifting slime in an unfamiliar world. With his new abilities, he comes across Veldora, a powerful monster who has been sealed away for three centuries. Satoru promises to help Veldora break the seal, and in return gains divine protection and a new name - Rimuru Tempest.Now free to explore this new world, Rimuru begins a journey with a clear objective in mind. As he becomes more comfortable with his abilities, his actions start to have ripple effects throughout the world and alter his fate.",
+        "poster": "assets/e2e52810818738fe7d2f48ec1cf6f724.jpg"
+      },
+      {
+        "id": "17",
+        "Anime_name": "Dr. STONE",
+        "runtime": 24,
+        "Seasons": 4,
+        "Episodes": 24,
+        "Time_released": "Jul 05, 2019 to Dec 13, 2019",
+        "description": "Taiju Ooki spent five years concealing his love for Yuzuriha Ogawa while he was in high school. But just as he was about to confess his feelings, a strange green light enveloped the Earth, petrifying all of humanity. Thousands of years passed before Taiju awoke in a world overrun by nature, with only stone statues of people left behind.Thankfully, Taiju stumbled upon his friend Senkuu, who had been awake for a few months and was working on a plan to revive civilization through science. With Taiju's strength and Senkuu's intellect, they discovered a way to bring back the petrified.However, they faced resistance from other survivors who disagreed with Senkuu's methods, and the mystery behind the petrification still remained unsolved.",
+        "poster": "assets/6a16e50e3ed9be5fc307a1ffb928f630.jpg"
+      },
+      {
+        "id": "18",
+        "Anime_name": "Death Note",
+        "runtime": 23,
+        "Seasons": 1,
+        "Episodes": 37,
+        "Time_released": "Oct 04, 2006 to Jun 27, 2007",
+        "description": "The world is plagued by violent crimes, thefts, and murders, while the afterlife inhabited by death gods is a dull and unchanging gambling den. Light Yagami, a resourceful 17-year-old Japanese student, and Ryuk, a sadistic god of death, agree that everything around them is corrupt.To amuse himself, Ryuk tosses his Death Note into the human world. Light stumbles upon it and initially scoffs at the first rule: whoever's name is written in this journal will perish. However, he is ultimately tempted and decides to test the Death Note by writing the name of a criminal, which leads to their unexpected and violent death.Realizing the immense power and responsibility that comes with the Death Note, Light adopts the moniker 'Kira' and vows to rid the world of wrongdoing by executing evildoers. The cunning detective L is already hot on Kira's trail, and as Light's intellect matches or even exceeds L's, their cat-and-mouse chase becomes a battle of wits that can only end once one of them succumbs to death.",
+        "poster": "assets/a55c09c47ea411f18bd35d1f3f0ec35e.jpg"
+      },
+      {
+        "id": "19",
+        "Anime_name": "One piece",
+        "runtime": 23,
+        "Seasons": 46,
+        "Episodes": 24,
+        "Time_released": "Oct 20, 1999 to ?",
+        "description": "Gol D. Roger, aka the 'Pirate King', was a notorious sailor who dominated the Grand Line. The World Government's capture and subsequent execution of him caused a paradigm shift, as his famous last words revealed the existence of the world's most valuable treasure – One Piece. This sparked the Grand Age of Pirates, with a new generation of seafarers seeking the treasure and the esteemed title of Pirate King.Amidst this new era, Monkey D. Luffy stands out as an unconventional pirate. He isn't interested in the typical pirate life of violence and plunder. Instead, he craves adventure and excitement – discovering new places, meeting unique characters, and ultimately finding the legendary treasure. Luffy and his crew set sail across the Grand Line, facing incredible challenges, solving cryptic puzzles, and battling powerful adversaries to uncover the coveted One Piece",
+        "poster": "assets/1bb2150e9529b52995336d38e74e94b6.jpg"
+      }
+    ]
+  }
