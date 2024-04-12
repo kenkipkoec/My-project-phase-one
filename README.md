@@ -20,7 +20,7 @@ Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
 ```
 
 # Live Link
-
+ttps://kenkipkoec.github.io/My-project-phase-one/
 
 ## Technologies used
 HTML
